@@ -1,1 +1,3 @@
-# cl-test16
+# cl-qmequipments
+
+Projecto qmequipments
