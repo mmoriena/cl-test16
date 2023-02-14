@@ -18,7 +18,7 @@
     ],
     "installable": True,
     "env-ver": "2",
-    "odoo-license": "EE",
+    "odoo-license": "CE",
     "config": [
         # 'addons_path' is always computed looking for the repositories in sources
         # 'data_dir' is a fixed location inside docker odoo image
