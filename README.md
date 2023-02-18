@@ -1,3 +1,3 @@
-# cl-qmequipments
+# Test V16 community
 
-Projecto qmequipments
+Deploy local de odoo 16 con odoo-env
