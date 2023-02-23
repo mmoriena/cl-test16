@@ -21,7 +21,7 @@
     ],
     "port": "8069",
     "git-repos": [
-        "git@github.com:mmoriena/cl-test16.git",
+        "https://github.com/mmoriena/cl-test16.git",
         # OCA
         "https://github.com/OCA/brand oca-brand",
         "https://github.com/OCA/web oca-web",
