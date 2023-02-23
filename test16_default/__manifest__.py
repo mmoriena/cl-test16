@@ -1,8 +1,8 @@
 {
-    "name": "test16",
-    "version": "16.0.1.0.0",
+    "name": "test15",
+    "version": "15.0.1.0.0",
     "category": "Tools",
-    "summary": "Proyect module for test16",
+    "summary": "Proyect module for test15",
     "author": "mmoriena",
     "website": "mmoriena.com",
     "license": "AGPL-3",
@@ -38,7 +38,7 @@
     ],
     # list of images to use in the form 'name image-url'
     "docker-images": [
-        "odoo jobiols/odoo-ent:16.0e",
-        "postgres postgres:15.1-alpine",
+        "odoo jobiols/odoo-jeo:15.0",
+        "postgres postgres:14.2-alpine",
     ],
 }
